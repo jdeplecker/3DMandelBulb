@@ -5,7 +5,7 @@ import numpy as np
 from math import atan2, sqrt, pow, sin, cos
 
 DIM = 500
-N = 4
+N = 8
 MAX_ITER = 20
 
 
